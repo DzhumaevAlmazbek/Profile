@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DzhumaevAlmazbek
-- 👀 I’m interested in Front-end Developing
+- 👀 I'm Frontend Developer
 
 <!---
 DzhumaevAlmazbek/DzhumaevAlmazbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
